@@ -26,6 +26,6 @@
 <div> 
 📩 contact me on my social media(s) below
 
-[telegram](https://t.me/coin4L/)
+[telegram](https://t.me/pickle/)
   
 </div>
