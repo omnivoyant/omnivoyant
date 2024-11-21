@@ -1,6 +1,6 @@
 ## about me
 
-📚 awesomecat2011 
+📚 "coin" is my main alias
 
 ##
 💻 C/C#/C++, Java, JavaScript, Python, Rust, HTML/CSS/PHP, SQL, & Reverse Engineering
