@@ -26,6 +26,6 @@
 <div> 
 📩 contact me on my social media(s) below
 
-[telegram](https://t.me/pickle/)
+[telegram](https://t.me/dress/)
   
 </div>
