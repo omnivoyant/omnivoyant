@@ -26,6 +26,6 @@
 <div> 
 📩 contact me on my social media(s) below
 
-[telegram](https://t.me/terrible/)
+[telegram](https://t.me/slay/)
   
 </div>
