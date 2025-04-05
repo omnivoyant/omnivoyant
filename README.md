@@ -1,6 +1,4 @@
-## about me
-
-📚 "omni" or "coin" are my main alias(es)
+## 📚 
 
 ##
 💻 C/C#/C++, Java, JavaScript, Python, Rust, HTML/CSS/PHP, SQL, & Reverse Engineering
