@@ -1,4 +1,4 @@
-## 📚 
+## 📚 k0nnect
 
 ##
 💻 C/C#/C++, Java, JavaScript, Python, Rust, HTML/CSS/PHP, SQL, & Reverse Engineering
@@ -24,6 +24,6 @@
 <div> 
 📩 contact me on my social media(s) below
 
-[telegram](https://t.me/slay/)
+[telegram](https://t.me/aw3s0mecat/)
   
 </div>
